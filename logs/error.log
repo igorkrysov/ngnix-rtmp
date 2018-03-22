@@ -1,0 +1,2 @@
+2018/03/22 18:57:30 [error] 22920#0: *21 open() "/tmp/dash/mystream.mpd" failed (2: No such file or directory), client: 192.168.178.113, server: , request: "GET /dash/mystream.mpd HTTP/1.1", host: "192.168.178.105:8080", referrer: "http://192.168.178.105:8080/dash.js/baseline.html"
+2018/03/22 19:28:34 [error] 22920#0: *34 open() "/tmp/dash/mystream.mpd" failed (2: No such file or directory), client: 192.168.178.113, server: , request: "GET /dash/mystream.mpd HTTP/1.1", host: "192.168.178.105:8080", referrer: "http://192.168.178.105:8080/dash.js/baseline.html"
