@@ -1,2 +1,13 @@
 2018/03/22 18:57:30 [error] 22920#0: *21 open() "/tmp/dash/mystream.mpd" failed (2: No such file or directory), client: 192.168.178.113, server: , request: "GET /dash/mystream.mpd HTTP/1.1", host: "192.168.178.105:8080", referrer: "http://192.168.178.105:8080/dash.js/baseline.html"
 2018/03/22 19:28:34 [error] 22920#0: *34 open() "/tmp/dash/mystream.mpd" failed (2: No such file or directory), client: 192.168.178.113, server: , request: "GET /dash/mystream.mpd HTTP/1.1", host: "192.168.178.105:8080", referrer: "http://192.168.178.105:8080/dash.js/baseline.html"
+2018/03/22 21:37:27 [error] 22920#0: *39 open() "/tmp/dash/mystream.mpd" failed (2: No such file or directory), client: 192.168.178.113, server: , request: "GET /dash/mystream.mpd HTTP/1.1", host: "192.168.178.105:8080", referrer: "http://192.168.178.105:8080/dash.js/baseline.html"
+2018/03/24 07:31:02 [error] 22920#0: *81 open() "/tmp/dash/mystream.mpd" failed (2: No such file or directory), client: 192.168.178.113, server: , request: "GET /dash/mystream.mpd HTTP/1.1", host: "192.168.178.105:8080", referrer: "http://192.168.178.105:8080/dash.js/baseline.html"
+2018/03/24 07:33:57 [notice] 24293#0: signal process started
+2018/03/24 07:41:12 [error] 24296#0: *8 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/03/24 07:41:27 [alert] 24296#0: unknown process 24311 exited on signal 9
+2018/03/24 07:45:02 [alert] 24296#0: unknown process 24326 exited on signal 9
+2018/03/24 07:47:00 [alert] 24296#0: unknown process 24338 exited on signal 9
+2018/03/24 13:16:48 [error] 24296#0: *24 directory index of "/usr/local/nginx/html/nodejs/" is forbidden, client: 192.168.178.113, server: , request: "GET /nodejs/ HTTP/1.1", host: "192.168.178.105:8080"
+2018/03/24 15:01:00 [error] 1219#0: *1 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 192.168.178.113, server: , request: "GET /favicon.ico HTTP/1.1", host: "192.168.178.105:8080", referrer: "http://192.168.178.105:8080/"
+2018/03/24 16:04:54 [error] 1219#0: *34 open() "/usr/local/nginx/html/somevideo.webm" failed (2: No such file or directory), client: 192.168.178.113, server: , request: "GET /somevideo.webm HTTP/1.1", host: "192.168.178.105:8080", referrer: "http://192.168.178.105:8080/"
+2018/03/24 16:04:56 [error] 1219#0: *36 open() "/usr/local/nginx/html/somevideo.webm" failed (2: No such file or directory), client: 192.168.178.113, server: , request: "GET /somevideo.webm HTTP/1.1", host: "192.168.178.105:8080", referrer: "http://192.168.178.105:8080/"

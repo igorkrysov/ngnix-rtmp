@@ -1,0 +1,1 @@
+ffmpeg -i rtsp://192.168.178.89/axis-media/media.amp -c copy -f flv rtmp://192.168.178.105/myapp/mystream

@@ -1,0 +1,14 @@
+.classpath
+.project
+.settings/
+*~
+node_modules/
+dist/
+dist_test/
+src/
+target/
+/bower.json
+junitResult.xml
+npm-debug.log
+lib-cov/
+reports/
